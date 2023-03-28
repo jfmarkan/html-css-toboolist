@@ -110,8 +110,8 @@ ul{
 
 .circle{
     display: inline-block;
-    height: 27px;
-    width: 27px;
+    height: 22px;
+    width: 22px;
     border: 2px solid;
     border-radius: 50%;
     text-align: center;
@@ -119,11 +119,11 @@ ul{
 }
 
 .done{
-    font-size: medium;
+    font-size: small;
     color: #5bcba4;
 }
 
 .not-done{
-    font-size: medium;
+    font-size: small;
     color: #e73c34;
 }
