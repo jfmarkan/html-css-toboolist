@@ -55,6 +55,51 @@ button{
     margin: 0px 100px;
     border-radius: 0px 0px 10px 10px;
     background-color: #FFFFFF;
-    padding: 50px 80px;
+    padding: 1px 110px 50px;
 }
 
+.head{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 50px;
+}
+
+.task{
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.pill{
+   font-size: 0.7rem;
+   font-weight: 300;
+   color: #FFFFFF;
+   height: auto;
+   vertical-align: middle;
+   border-radius: 5px;
+   padding:5px;
+}
+
+.editorial{
+    background-color: #47abf1;
+}
+
+.q1{
+
+}
+
+.recruiting{
+
+}
+
+.mobile{
+
+}
+
+.website{
+
+}
+
+.sales{
+
+}
