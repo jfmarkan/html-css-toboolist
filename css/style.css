@@ -26,7 +26,7 @@ img{
 }
 
 .button-menu{
-    margin: 50px 100px 3px;
+    margin: 50px 200px 3px;
     border-radius: 10px 10px 0px 0px ;
     background-color: #FFFFFF;
     padding: 30px 80px 15px;
@@ -52,7 +52,7 @@ button{
 }
 
 .list-display{
-    margin: 0px 100px;
+    margin: 0px 200px;
     border-radius: 0px 0px 10px 10px;
     background-color: #FFFFFF;
     padding: 1px 110px 50px;
@@ -71,13 +71,13 @@ button{
 }
 
 .pill{
-   font-size: 0.7rem;
-   font-weight: 300;
-   color: #FFFFFF;
-   height: auto;
-   vertical-align: middle;
-   border-radius: 5px;
-   padding:5px;
+    font-size: 0.7rem;
+    font-weight: 300;
+    color: #FFFFFF;
+    height: auto;
+    vertical-align: middle;
+    border-radius: 5px;
+    padding:5px;
 }
 
 .editorial{
@@ -102,4 +102,28 @@ button{
 
 .sales{
     background-color: #b0c926;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.circle{
+    display: inline-block;
+    height: 27px;
+    width: 27px;
+    border: 2px solid;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.done{
+    font-size: medium;
+    color: #5bcba4;
+}
+
+.not-done{
+    font-size: medium;
+    color: #e73c34;
 }
