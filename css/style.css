@@ -4,20 +4,34 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: #f6f8f9;
+}
+
 header{
     background-color: #FFFFFF;
-    height: 70px;
+}
+
+img{
+    margin: 10px 0px 10px 20px;
+    vertical-align: middle;    
 }
 
 .text-inline{
     display: inline;
 }
 
-body{
-    background-color: #f6f8f9;
+.button-menu{
+    margin: 50px 100px 3px;
+    border-radius: 10px 10px 0px 0px ;
+    background-color: #FFFFFF;
+    height: 50px;
+    padding-left: 50px;
 }
 
-img{
-    margin: 10px 0px 10px 20px;
-    vertical-align: middle;    
+.list-display{
+    margin: 0px 100px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #FFFFFF;
+    height: 50px;
 }
