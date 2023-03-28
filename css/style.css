@@ -12,6 +12,7 @@ body{
 
 header{
     background-color: #FFFFFF;
+    font-size: 2rem;
 }
 
 img{
@@ -20,7 +21,8 @@ img{
 }
 
 .text-inline{
-    display: inline;
+    display: inline;    
+    vertical-align: middle;
 }
 
 .button-menu{
