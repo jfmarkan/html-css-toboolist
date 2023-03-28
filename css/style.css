@@ -2,10 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
 }
 
 body{
     background-color: #f6f8f9;
+    
 }
 
 header{
@@ -28,18 +30,11 @@ img{
     padding: 30px 80px 15px;
 }
 
-.list-display{
-    margin: 0px 100px;
-    border-radius: 0px 0px 10px 10px;
-    background-color: #FFFFFF;
-    height: 50px;
-}
-
 button{
     padding: 5px 10px;
     border-radius: 5px;
     font-size: medium;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .enabled{
@@ -53,3 +48,11 @@ button{
     color: #cacaca;
     border: 2px solid #cacaca;
 }
+
+.list-display{
+    margin: 0px 100px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #FFFFFF;
+    padding: 50px 80px;
+}
+
