@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Oxygen', sans-serif;
+    box-sizing: border-box;
 }
 
 header{
@@ -9,17 +9,15 @@ header{
     height: 70px;
 }
 
+.text-inline{
+    display: inline;
+}
+
 body{
     background-color: #f6f8f9;
 }
 
-#toboolist-logo{
-    font-size: 3rem;
-    font-weight: 700;
-}
-
 img{
     margin: 10px 0px 10px 20px;
-    display: inline-block;
-    vertical-align: center;
+    vertical-align: middle;    
 }
