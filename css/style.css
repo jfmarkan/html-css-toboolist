@@ -25,8 +25,7 @@ img{
     margin: 50px 100px 3px;
     border-radius: 10px 10px 0px 0px ;
     background-color: #FFFFFF;
-    height: 50px;
-    padding-left: 50px;
+    padding: 30px 80px 15px;
 }
 
 .list-display{
@@ -34,4 +33,23 @@ img{
     border-radius: 0px 0px 10px 10px;
     background-color: #FFFFFF;
     height: 50px;
+}
+
+button{
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: 400;
+}
+
+.enabled{
+    background-color: #47abf1;
+    color: #FFFFFF;
+    border: 2px solid #47abf1;
+}
+
+.disabled{
+    background-color: #FFFFFF;
+    color: #cacaca;
+    border: 2px solid #cacaca;
 }
